@@ -1,0 +1,10 @@
+<Window x:Class="MessengerGUI.NameInputWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Enter Your Name" Height="200" Width="400" Background="#2E2E2E" Foreground="White">
+    <Grid>
+        <TextBlock Text="Enter your name:" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,20,0,0" FontSize="16" />
+        <TextBox Name="NameInput" HorizontalAlignment="Center" VerticalAlignment="Center" Width="200" Background="#444" Foreground="White" FontSize="14" />
+        <Button Content="Start Chat" HorizontalAlignment="Center" VerticalAlignment="Bottom" Width="100" Height="40" Background="#007ACC" Foreground="White" Click="StartChat_Click" Margin="0,0,0,20"/>
+    </Grid>
+</Window>

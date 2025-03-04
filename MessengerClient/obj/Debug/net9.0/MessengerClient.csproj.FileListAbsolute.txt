@@ -1,0 +1,93 @@
+C:\Users\HP\Desktop\C#\MessengerClient\bin\Debug\net9.0\MessengerClient.exe
+C:\Users\HP\Desktop\C#\MessengerClient\bin\Debug\net9.0\MessengerClient.deps.json
+C:\Users\HP\Desktop\C#\MessengerClient\bin\Debug\net9.0\MessengerClient.runtimeconfig.json
+C:\Users\HP\Desktop\C#\MessengerClient\bin\Debug\net9.0\MessengerClient.dll
+C:\Users\HP\Desktop\C#\MessengerClient\bin\Debug\net9.0\MessengerClient.pdb
+C:\Users\HP\Desktop\C#\MessengerClient\bin\Debug\net9.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\HP\Desktop\C#\MessengerClient\bin\Debug\net9.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\HP\Desktop\C#\MessengerClient\bin\Debug\net9.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\HP\Desktop\C#\MessengerClient\bin\Debug\net9.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\HP\Desktop\C#\MessengerClient\bin\Debug\net9.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\HP\Desktop\C#\MessengerClient\bin\Debug\net9.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\HP\Desktop\C#\MessengerClient\bin\Debug\net9.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\HP\Desktop\C#\MessengerClient\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\C#\MessengerClient\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\C#\MessengerClient\bin\Debug\net9.0\Microsoft.Extensions.Features.dll
+C:\Users\HP\Desktop\C#\MessengerClient\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\C#\MessengerClient\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\C#\MessengerClient\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\C#\MessengerClient\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\C#\MessengerClient\bin\Debug\net9.0\System.Net.ServerSentEvents.dll
+C:\Users\HP\Desktop\C#\MessengerClient\obj\Debug\net9.0\MessengerClient.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\MessengerClient\obj\Debug\net9.0\MessengerClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C#\MessengerClient\obj\Debug\net9.0\MessengerClient.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C#\MessengerClient\obj\Debug\net9.0\MessengerClient.AssemblyInfo.cs
+C:\Users\HP\Desktop\C#\MessengerClient\obj\Debug\net9.0\MessengerClient.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\MessengerClient\obj\Debug\net9.0\Messenge.E5B8A37B.Up2Date
+C:\Users\HP\Desktop\C#\MessengerClient\obj\Debug\net9.0\MessengerClient.dll
+C:\Users\HP\Desktop\C#\MessengerClient\obj\Debug\net9.0\refint\MessengerClient.dll
+C:\Users\HP\Desktop\C#\MessengerClient\obj\Debug\net9.0\MessengerClient.pdb
+C:\Users\HP\Desktop\C#\MessengerClient\obj\Debug\net9.0\MessengerClient.genruntimeconfig.cache
+C:\Users\HP\Desktop\C#\MessengerClient\obj\Debug\net9.0\ref\MessengerClient.dll
+C:\Users\HP\Desktop\C# — kopia\MessengerClient\bin\Debug\net9.0\MessengerClient.exe
+C:\Users\HP\Desktop\C# — kopia\MessengerClient\bin\Debug\net9.0\MessengerClient.deps.json
+C:\Users\HP\Desktop\C# — kopia\MessengerClient\bin\Debug\net9.0\MessengerClient.runtimeconfig.json
+C:\Users\HP\Desktop\C# — kopia\MessengerClient\bin\Debug\net9.0\MessengerClient.dll
+C:\Users\HP\Desktop\C# — kopia\MessengerClient\bin\Debug\net9.0\MessengerClient.pdb
+C:\Users\HP\Desktop\C# — kopia\MessengerClient\bin\Debug\net9.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\HP\Desktop\C# — kopia\MessengerClient\bin\Debug\net9.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\HP\Desktop\C# — kopia\MessengerClient\bin\Debug\net9.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\HP\Desktop\C# — kopia\MessengerClient\bin\Debug\net9.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\HP\Desktop\C# — kopia\MessengerClient\bin\Debug\net9.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\HP\Desktop\C# — kopia\MessengerClient\bin\Debug\net9.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\HP\Desktop\C# — kopia\MessengerClient\bin\Debug\net9.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\HP\Desktop\C# — kopia\MessengerClient\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\C# — kopia\MessengerClient\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\C# — kopia\MessengerClient\bin\Debug\net9.0\Microsoft.Extensions.Features.dll
+C:\Users\HP\Desktop\C# — kopia\MessengerClient\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\C# — kopia\MessengerClient\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\C# — kopia\MessengerClient\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\C# — kopia\MessengerClient\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\C# — kopia\MessengerClient\bin\Debug\net9.0\System.Net.ServerSentEvents.dll
+C:\Users\HP\Desktop\C# — kopia\MessengerClient\obj\Debug\net9.0\MessengerClient.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C# — kopia\MessengerClient\obj\Debug\net9.0\MessengerClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C# — kopia\MessengerClient\obj\Debug\net9.0\MessengerClient.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C# — kopia\MessengerClient\obj\Debug\net9.0\MessengerClient.AssemblyInfo.cs
+C:\Users\HP\Desktop\C# — kopia\MessengerClient\obj\Debug\net9.0\MessengerClient.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# — kopia\MessengerClient\obj\Debug\net9.0\Messenge.E5B8A37B.Up2Date
+C:\Users\HP\Desktop\C# — kopia\MessengerClient\obj\Debug\net9.0\MessengerClient.dll
+C:\Users\HP\Desktop\C# — kopia\MessengerClient\obj\Debug\net9.0\refint\MessengerClient.dll
+C:\Users\HP\Desktop\C# — kopia\MessengerClient\obj\Debug\net9.0\MessengerClient.pdb
+C:\Users\HP\Desktop\C# — kopia\MessengerClient\obj\Debug\net9.0\MessengerClient.genruntimeconfig.cache
+C:\Users\HP\Desktop\C# — kopia\MessengerClient\obj\Debug\net9.0\ref\MessengerClient.dll
+C:\Users\HP\Music\C#\MessengerClient\bin\Debug\net9.0\MessengerClient.exe
+C:\Users\HP\Music\C#\MessengerClient\bin\Debug\net9.0\MessengerClient.deps.json
+C:\Users\HP\Music\C#\MessengerClient\bin\Debug\net9.0\MessengerClient.runtimeconfig.json
+C:\Users\HP\Music\C#\MessengerClient\bin\Debug\net9.0\MessengerClient.dll
+C:\Users\HP\Music\C#\MessengerClient\bin\Debug\net9.0\MessengerClient.pdb
+C:\Users\HP\Music\C#\MessengerClient\bin\Debug\net9.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\HP\Music\C#\MessengerClient\bin\Debug\net9.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\HP\Music\C#\MessengerClient\bin\Debug\net9.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\HP\Music\C#\MessengerClient\bin\Debug\net9.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\HP\Music\C#\MessengerClient\bin\Debug\net9.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\HP\Music\C#\MessengerClient\bin\Debug\net9.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\HP\Music\C#\MessengerClient\bin\Debug\net9.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\HP\Music\C#\MessengerClient\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Music\C#\MessengerClient\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Music\C#\MessengerClient\bin\Debug\net9.0\Microsoft.Extensions.Features.dll
+C:\Users\HP\Music\C#\MessengerClient\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Music\C#\MessengerClient\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Music\C#\MessengerClient\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\HP\Music\C#\MessengerClient\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Music\C#\MessengerClient\bin\Debug\net9.0\System.Net.ServerSentEvents.dll
+C:\Users\HP\Music\C#\MessengerClient\obj\Debug\net9.0\MessengerClient.csproj.AssemblyReference.cache
+C:\Users\HP\Music\C#\MessengerClient\obj\Debug\net9.0\MessengerClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Music\C#\MessengerClient\obj\Debug\net9.0\MessengerClient.AssemblyInfoInputs.cache
+C:\Users\HP\Music\C#\MessengerClient\obj\Debug\net9.0\MessengerClient.AssemblyInfo.cs
+C:\Users\HP\Music\C#\MessengerClient\obj\Debug\net9.0\MessengerClient.csproj.CoreCompileInputs.cache
+C:\Users\HP\Music\C#\MessengerClient\obj\Debug\net9.0\Messenge.E5B8A37B.Up2Date
+C:\Users\HP\Music\C#\MessengerClient\obj\Debug\net9.0\MessengerClient.dll
+C:\Users\HP\Music\C#\MessengerClient\obj\Debug\net9.0\refint\MessengerClient.dll
+C:\Users\HP\Music\C#\MessengerClient\obj\Debug\net9.0\MessengerClient.pdb
+C:\Users\HP\Music\C#\MessengerClient\obj\Debug\net9.0\MessengerClient.genruntimeconfig.cache
+C:\Users\HP\Music\C#\MessengerClient\obj\Debug\net9.0\ref\MessengerClient.dll
