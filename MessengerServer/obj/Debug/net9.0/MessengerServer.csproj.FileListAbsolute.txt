@@ -1,0 +1,108 @@
+C:\Users\HP\Desktop\C#\MessengerServer\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\HP\Desktop\C#\MessengerServer\bin\Debug\net9.0\appsettings.json
+C:\Users\HP\Desktop\C#\MessengerServer\bin\Debug\net9.0\MessengerServer.staticwebassets.endpoints.json
+C:\Users\HP\Desktop\C#\MessengerServer\bin\Debug\net9.0\MessengerServer.exe
+C:\Users\HP\Desktop\C#\MessengerServer\bin\Debug\net9.0\MessengerServer.deps.json
+C:\Users\HP\Desktop\C#\MessengerServer\bin\Debug\net9.0\MessengerServer.runtimeconfig.json
+C:\Users\HP\Desktop\C#\MessengerServer\bin\Debug\net9.0\MessengerServer.dll
+C:\Users\HP\Desktop\C#\MessengerServer\bin\Debug\net9.0\MessengerServer.pdb
+C:\Users\HP\Desktop\C#\MessengerServer\bin\Debug\net9.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\HP\Desktop\C#\MessengerServer\bin\Debug\net9.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\HP\Desktop\C#\MessengerServer\bin\Debug\net9.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\HP\Desktop\C#\MessengerServer\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\C#\MessengerServer\bin\Debug\net9.0\System.Net.ServerSentEvents.dll
+C:\Users\HP\Desktop\C#\MessengerServer\bin\Debug\net9.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\HP\Desktop\C#\MessengerServer\obj\Debug\net9.0\MessengerServer.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\MessengerServer\obj\Debug\net9.0\MessengerServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C#\MessengerServer\obj\Debug\net9.0\MessengerServer.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C#\MessengerServer\obj\Debug\net9.0\MessengerServer.AssemblyInfo.cs
+C:\Users\HP\Desktop\C#\MessengerServer\obj\Debug\net9.0\MessengerServer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\MessengerServer\obj\Debug\net9.0\MessengerServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\C#\MessengerServer\obj\Debug\net9.0\scopedcss\bundle\MessengerServer.styles.css
+C:\Users\HP\Desktop\C#\MessengerServer\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\HP\Desktop\C#\MessengerServer\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\HP\Desktop\C#\MessengerServer\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\HP\Desktop\C#\MessengerServer\obj\Debug\net9.0\staticwebassets\msbuild.MessengerServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Desktop\C#\MessengerServer\obj\Debug\net9.0\staticwebassets\msbuild.MessengerServer.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\HP\Desktop\C#\MessengerServer\obj\Debug\net9.0\staticwebassets\msbuild.build.MessengerServer.props
+C:\Users\HP\Desktop\C#\MessengerServer\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MessengerServer.props
+C:\Users\HP\Desktop\C#\MessengerServer\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MessengerServer.props
+C:\Users\HP\Desktop\C#\MessengerServer\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\HP\Desktop\C#\MessengerServer\obj\Debug\net9.0\Messenge.BEBF3BDD.Up2Date
+C:\Users\HP\Desktop\C#\MessengerServer\obj\Debug\net9.0\MessengerServer.dll
+C:\Users\HP\Desktop\C#\MessengerServer\obj\Debug\net9.0\refint\MessengerServer.dll
+C:\Users\HP\Desktop\C#\MessengerServer\obj\Debug\net9.0\MessengerServer.pdb
+C:\Users\HP\Desktop\C#\MessengerServer\obj\Debug\net9.0\MessengerServer.genruntimeconfig.cache
+C:\Users\HP\Desktop\C#\MessengerServer\obj\Debug\net9.0\ref\MessengerServer.dll
+C:\Users\HP\Desktop\C# — kopia\MessengerServer\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\HP\Desktop\C# — kopia\MessengerServer\bin\Debug\net9.0\appsettings.json
+C:\Users\HP\Desktop\C# — kopia\MessengerServer\bin\Debug\net9.0\MessengerServer.staticwebassets.endpoints.json
+C:\Users\HP\Desktop\C# — kopia\MessengerServer\bin\Debug\net9.0\MessengerServer.exe
+C:\Users\HP\Desktop\C# — kopia\MessengerServer\bin\Debug\net9.0\MessengerServer.deps.json
+C:\Users\HP\Desktop\C# — kopia\MessengerServer\bin\Debug\net9.0\MessengerServer.runtimeconfig.json
+C:\Users\HP\Desktop\C# — kopia\MessengerServer\bin\Debug\net9.0\MessengerServer.dll
+C:\Users\HP\Desktop\C# — kopia\MessengerServer\bin\Debug\net9.0\MessengerServer.pdb
+C:\Users\HP\Desktop\C# — kopia\MessengerServer\bin\Debug\net9.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\HP\Desktop\C# — kopia\MessengerServer\bin\Debug\net9.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\HP\Desktop\C# — kopia\MessengerServer\bin\Debug\net9.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\HP\Desktop\C# — kopia\MessengerServer\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\C# — kopia\MessengerServer\bin\Debug\net9.0\System.Net.ServerSentEvents.dll
+C:\Users\HP\Desktop\C# — kopia\MessengerServer\bin\Debug\net9.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\HP\Desktop\C# — kopia\MessengerServer\obj\Debug\net9.0\MessengerServer.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C# — kopia\MessengerServer\obj\Debug\net9.0\MessengerServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C# — kopia\MessengerServer\obj\Debug\net9.0\MessengerServer.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C# — kopia\MessengerServer\obj\Debug\net9.0\MessengerServer.AssemblyInfo.cs
+C:\Users\HP\Desktop\C# — kopia\MessengerServer\obj\Debug\net9.0\MessengerServer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# — kopia\MessengerServer\obj\Debug\net9.0\MessengerServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\C# — kopia\MessengerServer\obj\Debug\net9.0\scopedcss\bundle\MessengerServer.styles.css
+C:\Users\HP\Desktop\C# — kopia\MessengerServer\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\HP\Desktop\C# — kopia\MessengerServer\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\HP\Desktop\C# — kopia\MessengerServer\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\HP\Desktop\C# — kopia\MessengerServer\obj\Debug\net9.0\staticwebassets\msbuild.MessengerServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Desktop\C# — kopia\MessengerServer\obj\Debug\net9.0\staticwebassets\msbuild.MessengerServer.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\HP\Desktop\C# — kopia\MessengerServer\obj\Debug\net9.0\staticwebassets\msbuild.build.MessengerServer.props
+C:\Users\HP\Desktop\C# — kopia\MessengerServer\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MessengerServer.props
+C:\Users\HP\Desktop\C# — kopia\MessengerServer\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MessengerServer.props
+C:\Users\HP\Desktop\C# — kopia\MessengerServer\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\HP\Desktop\C# — kopia\MessengerServer\obj\Debug\net9.0\Messenge.BEBF3BDD.Up2Date
+C:\Users\HP\Desktop\C# — kopia\MessengerServer\obj\Debug\net9.0\MessengerServer.dll
+C:\Users\HP\Desktop\C# — kopia\MessengerServer\obj\Debug\net9.0\refint\MessengerServer.dll
+C:\Users\HP\Desktop\C# — kopia\MessengerServer\obj\Debug\net9.0\MessengerServer.pdb
+C:\Users\HP\Desktop\C# — kopia\MessengerServer\obj\Debug\net9.0\MessengerServer.genruntimeconfig.cache
+C:\Users\HP\Desktop\C# — kopia\MessengerServer\obj\Debug\net9.0\ref\MessengerServer.dll
+C:\Users\HP\Music\C#\MessengerServer\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\HP\Music\C#\MessengerServer\bin\Debug\net9.0\appsettings.json
+C:\Users\HP\Music\C#\MessengerServer\bin\Debug\net9.0\MessengerServer.staticwebassets.endpoints.json
+C:\Users\HP\Music\C#\MessengerServer\bin\Debug\net9.0\MessengerServer.exe
+C:\Users\HP\Music\C#\MessengerServer\bin\Debug\net9.0\MessengerServer.deps.json
+C:\Users\HP\Music\C#\MessengerServer\bin\Debug\net9.0\MessengerServer.runtimeconfig.json
+C:\Users\HP\Music\C#\MessengerServer\bin\Debug\net9.0\MessengerServer.dll
+C:\Users\HP\Music\C#\MessengerServer\bin\Debug\net9.0\MessengerServer.pdb
+C:\Users\HP\Music\C#\MessengerServer\bin\Debug\net9.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\HP\Music\C#\MessengerServer\bin\Debug\net9.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\HP\Music\C#\MessengerServer\bin\Debug\net9.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\HP\Music\C#\MessengerServer\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\HP\Music\C#\MessengerServer\bin\Debug\net9.0\System.Net.ServerSentEvents.dll
+C:\Users\HP\Music\C#\MessengerServer\bin\Debug\net9.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\HP\Music\C#\MessengerServer\obj\Debug\net9.0\MessengerServer.csproj.AssemblyReference.cache
+C:\Users\HP\Music\C#\MessengerServer\obj\Debug\net9.0\MessengerServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Music\C#\MessengerServer\obj\Debug\net9.0\MessengerServer.AssemblyInfoInputs.cache
+C:\Users\HP\Music\C#\MessengerServer\obj\Debug\net9.0\MessengerServer.AssemblyInfo.cs
+C:\Users\HP\Music\C#\MessengerServer\obj\Debug\net9.0\MessengerServer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Music\C#\MessengerServer\obj\Debug\net9.0\MessengerServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Music\C#\MessengerServer\obj\Debug\net9.0\scopedcss\bundle\MessengerServer.styles.css
+C:\Users\HP\Music\C#\MessengerServer\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\HP\Music\C#\MessengerServer\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\HP\Music\C#\MessengerServer\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\HP\Music\C#\MessengerServer\obj\Debug\net9.0\staticwebassets\msbuild.MessengerServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Music\C#\MessengerServer\obj\Debug\net9.0\staticwebassets\msbuild.MessengerServer.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\HP\Music\C#\MessengerServer\obj\Debug\net9.0\staticwebassets\msbuild.build.MessengerServer.props
+C:\Users\HP\Music\C#\MessengerServer\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MessengerServer.props
+C:\Users\HP\Music\C#\MessengerServer\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MessengerServer.props
+C:\Users\HP\Music\C#\MessengerServer\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\HP\Music\C#\MessengerServer\obj\Debug\net9.0\Messenge.BEBF3BDD.Up2Date
+C:\Users\HP\Music\C#\MessengerServer\obj\Debug\net9.0\MessengerServer.dll
+C:\Users\HP\Music\C#\MessengerServer\obj\Debug\net9.0\refint\MessengerServer.dll
+C:\Users\HP\Music\C#\MessengerServer\obj\Debug\net9.0\MessengerServer.pdb
+C:\Users\HP\Music\C#\MessengerServer\obj\Debug\net9.0\MessengerServer.genruntimeconfig.cache
+C:\Users\HP\Music\C#\MessengerServer\obj\Debug\net9.0\ref\MessengerServer.dll
